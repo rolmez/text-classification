@@ -1,0 +1,16 @@
+# requirements.txt
+
+datasets==2.16.1
+ipython-autotime==0.3.2
+simpletransformers==0.64.5
+tensorflow==2.14.0
+numpy==1.23.5
+pandas==1.5.3
+requests==2.31.0
+tqdm==4.66.1
+regex==2023.6.3
+transformers==4.35.2
+scikit-learn==1.2.2
+seqeval==1.2.2
+tensorboardx==2.6.2.2
+wandb==0.16.2
